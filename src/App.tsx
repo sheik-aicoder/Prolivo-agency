@@ -78,9 +78,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-20">
             <div className="flex items-center space-x-3">
-              <div className="bg-gradient-to-r from-blue-600 to-purple-600 p-2 rounded-xl">
-                <Bot className="h-8 w-8 text-white" />
-              </div>
+              <img src="/file_0000000012e461f7a274c00f53249601.png" alt="Prolivo Logo" className="h-12 w-auto" />
               <span className="text-3xl font-bold bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent">Prolivo</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
@@ -683,9 +681,7 @@ function App() {
           <div className="grid md:grid-cols-4 gap-12">
             <div>
               <div className="flex items-center space-x-3 mb-6">
-                <div className="bg-gradient-to-r from-blue-600 to-purple-600 p-2 rounded-xl">
-                  <Bot className="h-8 w-8 text-white" />
-                </div>
+                <img src="/file_0000000012e461f7a274c00f53249601.png" alt="Prolivo Logo" className="h-10 w-auto" />
                 <span className="text-3xl font-bold">Prolivo</span>
               </div>
               <p className="text-gray-400 mb-6 leading-relaxed">Transforming enterprises through intelligent automation and cutting-edge AI solutions.</p>
