@@ -533,7 +533,7 @@ function App() {
                   </div>
                   <div>
                     <p className="font-semibold text-gray-900 text-lg">Enterprise Sales</p>
-                    <p className="text-gray-600">enterprise@prolivo.com</p>
+                    <p className="text-gray-600">sheikabdul2026@gmail.com</p>
                   </div>
                 </div>
 
@@ -543,7 +543,7 @@ function App() {
                   </div>
                   <div>
                     <p className="font-semibold text-gray-900 text-lg">Direct Line</p>
-                    <p className="text-gray-600">+1 (555) AI-ENTERPRISE</p>
+                    <p className="text-gray-600">+91 8760 92576</p>
                   </div>
                 </div>
 
